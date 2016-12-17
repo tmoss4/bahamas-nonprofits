@@ -275,7 +275,7 @@ permalink: /
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.bahamaslocal.com/showlisting/15720/Elizabeth_Estates_Childrens_Home.html">
-                  <img src="{{ site.baseurl }}/img/portfolio/elizabeth-logo.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/elizabeth-logo.JPG" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Elizabeth Estates Children’s Home</h2>
@@ -343,7 +343,7 @@ permalink: /
               </li>
               <li class="mix Education">
                 <a href="https://breef.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/bahamashistorical-logo.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamashistorical-logo.JPG" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Historical Society</h2>
@@ -600,8 +600,7 @@ permalink: /
 </section>
 
 <!-- Health Start -->
-# Health
-
+<h1>Health</h1>
 [AIDS Foundation of the Bahamas][?] - The Bahamas AIDS Foundation is a non-profit, non-government organization dedicated to the fight against HIV/AIDS in the Bahamas and worldwide.
 
 [Amnesty International][?] - Amnesty International is a global movement of more than 7 million people who take injustice personally. We are campaigning for a world where human rights are enjoyed by all.
@@ -640,7 +639,7 @@ permalink: /
 [STRAW Center for Young Women][?] - Youth development organization which provides a safe, positive and structured mentoring program for adolescent girls, teen girls and young women in the Bahamas.
 
 <!-- Orphanage Start -->
-# Orphanage
+<h1>Orphanage</h1>
 [Bilney Lane Children’s Home][?] - Provides comprehensive child care services for displaced children.
 
 [Children’s Emergency Hostel][?] - The sole purpose of the Hostel is to provide temporary accommodation, food, clothing, medical care and other necessities for the benefit of abandoned and neglected children, until more permanent arrangements could be made for their welfare.
@@ -654,7 +653,7 @@ permalink: /
 [Ranfurly Home][?] - The Ranfurly Homes for Children exist to provide comprehensive child care services for displaced children due to death, separation, abuse, abandonment, illness or other unfortunate circumstances.
 
 <!-- Education Start -->
-# Education
+<h1>Education</h1>
 [Bahamas Adventure Learning Center][?] - Focuses on providing Bahamian school students an exciting science-based educational learning experience where Christian principles and spiritual guidelines are integrated into the curriculum throughout the day.
 
 [The Commonwealth Writers of the Bahamas][?] - Our purpose is educational, to ensure that all members who are interested in becoming published authors or have a career in writing receive the basic skills.
@@ -671,7 +670,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 [Yes to Education][?] - The Yes to Education Foundation is a not-for-profit organization committed to improving educational outcomes for all students in The Bahamas by focusing on high impact professional development opportunities for teachers, and quality enrichment opportunities for students.
 
 <!-- Pet Start -->
-# Pet
+<h1>Pet</h1>
 [Baark!][?] - Baark’s mission is to carry out spay/neuter and education projects to reduce the homeless animal population and end the suffering of dogs and cats in The Bahamas.
 
 [Bahamas Humane Society][?] - The Bahamas Humane Society is a non-profit organization, comprised of a compassionate team, dedicated to promote the humane treatment of animal and prevent cruelty to animals through continuous education in a variety of methods, to end pet over-population through an aggressive spay/neuter campaign from 2013-2018 and as a result of the two objectives to become a no-kill shelter by 2020.
@@ -679,7 +678,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 [Proud Paws][?] - Proud Paws is a not-for-profit charity that has as its primary mission the reduction of unwanted and stray and roaming dogs and cats by means of a well-organised subsidized spay and neuter project.
 
 <!-- Nature Start -->
-# Nature
+<h1>Nature</h1>
 [Friends of the Bahamas][?] - Friends of the Environment works to preserve and protect Abaco’s terrestrial and marine environments in order to achieve sustainable living for the wildlife and the people of Abaco.
 
 [Bahamas National Trust][?] - The Bahamas National Trust is a non-profit organisation in The Bahamas that manages the country’s national parks.
@@ -693,7 +692,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 [Save the Bays][?] - Save The Bays is a non-profit organisation comprised of Bahamian and international members united in their commitment to preserve and protect the Bahamian environment through proactive policy change, education, legal action and advocacy.
 
 <!-- General Start -->
-# General
+<h1>General</h1>
 [Charitable Arts Foundation][?] - Dedicated to supporting endeavors in arts and culture throughout the Bahamas.
 
 [Governor-General’s Youth Award][?] - Our participants develop important skills, contribute valuable service to the community, participate in physical recreation activities, and embark upon adventurous journeys.
