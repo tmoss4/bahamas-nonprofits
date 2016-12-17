@@ -206,7 +206,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://www.salvationarmybahamas.org/">
+                <a href="http://www.sassoonheartfoundation.org/Home.html">
                   <img src="{{ site.baseurl }}/img/portfolio/sassoonheart-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -601,118 +601,118 @@ permalink: /
 
 <!-- Health Start -->
 <h1>Health</h1>
-[AIDS Foundation of the Bahamas][?] - The Bahamas AIDS Foundation is a non-profit, non-government organization dedicated to the fight against HIV/AIDS in the Bahamas and worldwide.
+[AIDS Foundation of the Bahamas][1] - The Bahamas AIDS Foundation is a non-profit, non-government organization dedicated to the fight against HIV/AIDS in the Bahamas and worldwide.
 
-[Amnesty International][?] - Amnesty International is a global movement of more than 7 million people who take injustice personally. We are campaigning for a world where human rights are enjoyed by all.
+[Amnesty International][2] - Amnesty International is a global movement of more than 7 million people who take injustice personally. We are campaigning for a world where human rights are enjoyed by all.
 
-[Bahamas Air Sea Rescue Association (BASRA)][?] - The Bahamas Air Sea Rescue Association is a dedicated non-profit voluntary organization committed to saving the lives of distressed seamen or airmen in the Bahamas. 
+[Bahamas Air Sea Rescue Association (BASRA)][3] - The Bahamas Air Sea Rescue Association is a dedicated non-profit voluntary organization committed to saving the lives of distressed seamen or airmen in the Bahamas. 
 
-[The Cancer Society of The Bahamas][?] - The Cancer Society offers education, health care, counseling and support to individuals and families dealing with cancer.
+[The Cancer Society of The Bahamas][4] - The Cancer Society offers education, health care, counseling and support to individuals and families dealing with cancer.
 
-[Bahamas Crisis Center][?] - The Bahamas Crisis Centre exists to offer free counseling and services for men, women and children who are experiencing any form of abuse; family, relationship of behavioral problem.
+[Bahamas Crisis Center][5] - The Bahamas Crisis Centre exists to offer free counseling and services for men, women and children who are experiencing any form of abuse; family, relationship of behavioral problem.
 
-[Bahamas Diabetic Association][?] - To educate and give moral support to persons with diabetes and their family.
+[Bahamas Diabetic Association][6] - To educate and give moral support to persons with diabetes and their family.
 
-[Bahamas Godparent Pregnancy Youth and Family Center][?] - Non-profit crisis pregnancy and youth center offering support, education, and resources to men and women facing unplanned pregnancies.
+[Bahamas Godparent Pregnancy Youth and Family Center][7] - Non-profit crisis pregnancy and youth center offering support, education, and resources to men and women facing unplanned pregnancies.
 
-[Hands for Hunger][?] - Fresh, surplus food rescue; non-perishable food storage; education; and awareness.
+[Hands for Hunger][8] - Fresh, surplus food rescue; non-perishable food storage; education; and awareness.
 
-[Marathon Bahamas][?] - We are committed to supporting the efforts in our community with respect to cancer awareness education, and doing what we can to support cancer treatment programs.
+[Marathon Bahamas][9] - We are committed to supporting the efforts in our community with respect to cancer awareness education, and doing what we can to support cancer treatment programs.
 
-[Providing Access to Continued Education (PACE)][?] - Our mission is to support, educate, and empower teenaged mothers.
+[Providing Access to Continued Education (PACE)][10] - Our mission is to support, educate, and empower teenaged mothers.
 
-[The Physically Challenged Children’s Committee][?] - The Physically Challenged Children's Committee (PCCC) is a non-governmental organisation which was founded in 1954 by Sir Etienne Dupuch, Editor of the Tribune. Sir Etienne realized the need for assistance to children with crippling conditions arising from polio or other causes.
+[The Physically Challenged Children’s Committee][11] - The Physically Challenged Children's Committee (PCCC) is a non-governmental organisation which was founded in 1954 by Sir Etienne Dupuch, Editor of the Tribune. Sir Etienne realized the need for assistance to children with crippling conditions arising from polio or other causes.
 
-[Bahamas Red Cross Society][?] - The Bahamas Red Cross Society is an humanitarian organization which seeks to improve the lives of the most vulnerable in our communities.
+[Bahamas Red Cross Society][12] - The Bahamas Red Cross Society is an humanitarian organization which seeks to improve the lives of the most vulnerable in our communities.
 
-[Ride For Hope Bahamas][?] - Every dollar raised by participants goes to fund programmes created and supported by Ride for Hope to assist Bahamians in the fight against cancer, through education, testing, early-screening, research and direct financial assistance. 
+[Ride For Hope Bahamas][13] - Every dollar raised by participants goes to fund programmes created and supported by Ride for Hope to assist Bahamians in the fight against cancer, through education, testing, early-screening, research and direct financial assistance. 
 
-[Salvation Army][?] - Offers a variety of social services such as a food program, woman’s shelter, and thrift store.
+[Salvation Army][14] - Offers a variety of social services such as a food program, woman’s shelter, and thrift store.
 
-[Sassoon Heart Foundation][?] - We work in partnership with the Bahamas Heart Association to assist Bahamians with heart ailments, raise awareness of heart disease, and communicate what you can do to live a heart healthy lifestyle.
+[Sassoon Heart Foundation][15] - We work in partnership with the Bahamas Heart Association to assist Bahamians with heart ailments, raise awareness of heart disease, and communicate what you can do to live a heart healthy lifestyle.
 
 
-[Sister Sister Breast Cancer Support Group][?] - To empower and educate women to actively participate in preventative health and support those diagnosed.
+[Sister Sister Breast Cancer Support Group][16] - To empower and educate women to actively participate in preventative health and support those diagnosed.
 
-[Special Olympics][?] - Special Olympics is a global organization that serves athletes with intellectual disabilities working with hundreds of thousands of volunteers and coaches each year.
+[Special Olympics][17] - Special Olympics is a global organization that serves athletes with intellectual disabilities working with hundreds of thousands of volunteers and coaches each year.
 
-[STRAW Center for Young Women][?] - Youth development organization which provides a safe, positive and structured mentoring program for adolescent girls, teen girls and young women in the Bahamas.
+[STRAW Center for Young Women][18] - Youth development organization which provides a safe, positive and structured mentoring program for adolescent girls, teen girls and young women in the Bahamas.
 
 <!-- Orphanage Start -->
 <h1>Orphanage</h1>
-[Bilney Lane Children’s Home][?] - Provides comprehensive child care services for displaced children.
+[Bilney Lane Children’s Home][19] - Provides comprehensive child care services for displaced children.
 
-[Children’s Emergency Hostel][?] - The sole purpose of the Hostel is to provide temporary accommodation, food, clothing, medical care and other necessities for the benefit of abandoned and neglected children, until more permanent arrangements could be made for their welfare.
+[Children’s Emergency Hostel][20] - The sole purpose of the Hostel is to provide temporary accommodation, food, clothing, medical care and other necessities for the benefit of abandoned and neglected children, until more permanent arrangements could be made for their welfare.
 
-[Elizabeth Estates Children’s Home][?] - The Home provides 24 hour care for up to 50 children between the ages of 11 and 17 years.
+[Elizabeth Estates Children’s Home][21] - The Home provides 24 hour care for up to 50 children between the ages of 11 and 17 years.
 
-[Grand Bahama Children’s Home][?] - Helping the island’s beautiful yet neglected children live in a safe and loving home.
+[Grand Bahama Children’s Home][22] - Helping the island’s beautiful yet neglected children live in a safe and loving home.
 
-[Old Bight Mission Home][?] - Located on Cat Island and run by Pastor Russell, his wife, and staff.
+[Old Bight Mission Home][23] - Located on Cat Island and run by Pastor Russell, his wife, and staff.
 
-[Ranfurly Home][?] - The Ranfurly Homes for Children exist to provide comprehensive child care services for displaced children due to death, separation, abuse, abandonment, illness or other unfortunate circumstances.
+[Ranfurly Home][24] - The Ranfurly Homes for Children exist to provide comprehensive child care services for displaced children due to death, separation, abuse, abandonment, illness or other unfortunate circumstances.
 
 <!-- Education Start -->
 <h1>Education</h1>
-[Bahamas Adventure Learning Center][?] - Focuses on providing Bahamian school students an exciting science-based educational learning experience where Christian principles and spiritual guidelines are integrated into the curriculum throughout the day.
+[Bahamas Adventure Learning Center][25] - Focuses on providing Bahamian school students an exciting science-based educational learning experience where Christian principles and spiritual guidelines are integrated into the curriculum throughout the day.
 
-[The Commonwealth Writers of the Bahamas][?] - Our purpose is educational, to ensure that all members who are interested in becoming published authors or have a career in writing receive the basic skills.
+[The Commonwealth Writers of the Bahamas][26] - Our purpose is educational, to ensure that all members who are interested in becoming published authors or have a career in writing receive the basic skills.
 
-[Bahamas Historical Society][?] - The Bahamas Historical Society is a non-profit cultural and educational organisation dedicated to stimulating interest in Bahamian History and to the collection and preservation of material relating to that history.
+[Bahamas Historical Society][27] - The Bahamas Historical Society is a non-profit cultural and educational organisation dedicated to stimulating interest in Bahamian History and to the collection and preservation of material relating to that history.
 
-[Jes-us][?] - Providing S.T.E.M. and entrepreneurship education through programs that encourage positive social development, increased educational opportunities and economic security through the media outlet. 
+[Jes-us][28] - Providing S.T.E.M. and entrepreneurship education through programs that encourage positive social development, increased educational opportunities and economic security through the media outlet. 
 
-[Lyford Cay Foundation][?] - The Lyford Cay Foundation, Inc. and The Canadian Lyford Cay Foundation were created to enhance and enrich The Bahamas and the lives of its people.
+[Lyford Cay Foundation][29] - The Lyford Cay Foundation, Inc. and The Canadian Lyford Cay Foundation were created to enhance and enrich The Bahamas and the lives of its people.
 To this end, we direct our resources into two principal areas:
 Increasing the availability of higher education and technical training for Bahamians
 Supporting local non-profit groups through financial contributions and volunteer initiatives.
 
-[Yes to Education][?] - The Yes to Education Foundation is a not-for-profit organization committed to improving educational outcomes for all students in The Bahamas by focusing on high impact professional development opportunities for teachers, and quality enrichment opportunities for students.
+[Yes to Education][30] - The Yes to Education Foundation is a not-for-profit organization committed to improving educational outcomes for all students in The Bahamas by focusing on high impact professional development opportunities for teachers, and quality enrichment opportunities for students.
 
 <!-- Pet Start -->
 <h1>Pet</h1>
-[Baark!][?] - Baark’s mission is to carry out spay/neuter and education projects to reduce the homeless animal population and end the suffering of dogs and cats in The Bahamas.
+[Baark!][31] - Baark’s mission is to carry out spay/neuter and education projects to reduce the homeless animal population and end the suffering of dogs and cats in The Bahamas.
 
-[Bahamas Humane Society][?] - The Bahamas Humane Society is a non-profit organization, comprised of a compassionate team, dedicated to promote the humane treatment of animal and prevent cruelty to animals through continuous education in a variety of methods, to end pet over-population through an aggressive spay/neuter campaign from 2013-2018 and as a result of the two objectives to become a no-kill shelter by 2020.
+[Bahamas Humane Society][32] - The Bahamas Humane Society is a non-profit organization, comprised of a compassionate team, dedicated to promote the humane treatment of animal and prevent cruelty to animals through continuous education in a variety of methods, to end pet over-population through an aggressive spay/neuter campaign from 2013-2018 and as a result of the two objectives to become a no-kill shelter by 2020.
 
-[Proud Paws][?] - Proud Paws is a not-for-profit charity that has as its primary mission the reduction of unwanted and stray and roaming dogs and cats by means of a well-organised subsidized spay and neuter project.
+[Proud Paws][33] - Proud Paws is a not-for-profit charity that has as its primary mission the reduction of unwanted and stray and roaming dogs and cats by means of a well-organised subsidized spay and neuter project.
 
 <!-- Nature Start -->
 <h1>Nature</h1>
-[Friends of the Bahamas][?] - Friends of the Environment works to preserve and protect Abaco’s terrestrial and marine environments in order to achieve sustainable living for the wildlife and the people of Abaco.
+[Friends of the Bahamas][34] - Friends of the Environment works to preserve and protect Abaco’s terrestrial and marine environments in order to achieve sustainable living for the wildlife and the people of Abaco.
 
-[Bahamas National Trust][?] - The Bahamas National Trust is a non-profit organisation in The Bahamas that manages the country’s national parks.
+[Bahamas National Trust][35] - The Bahamas National Trust is a non-profit organisation in The Bahamas that manages the country’s national parks.
 
-[Bahamas Reef Environment Educational Foundation (BREEF)][?] - BREEF is a non-government, not-for-profit, Bahamian foundation concerned with educating our people about the value of and need for conserving our marine environment.
+[Bahamas Reef Environment Educational Foundation (BREEF)][36] - BREEF is a non-government, not-for-profit, Bahamian foundation concerned with educating our people about the value of and need for conserving our marine environment.
 
-[Leon Levy Native Plant Preserve][?] - The Foundation endeavors to continue Leon Levy’s philanthropic legacy and to build on his vision, encouraging and supporting excellence in six broad areas: Understanding the Ancient World; Arts and Humanities; Preservation of Nature and Gardens; Brain Research and Science; Human Rights; and Jewish Culture.
+[Leon Levy Native Plant Preserve][37] - The Foundation endeavors to continue Leon Levy’s philanthropic legacy and to build on his vision, encouraging and supporting excellence in six broad areas: Understanding the Ancient World; Arts and Humanities; Preservation of Nature and Gardens; Brain Research and Science; Human Rights; and Jewish Culture.
 
-[The Nature Conservatory][?] - Working with government and local partners to protect priority land and sea habitats.
+[The Nature Conservatory][38] - Working with government and local partners to protect priority land and sea habitats.
 
-[Save the Bays][?] - Save The Bays is a non-profit organisation comprised of Bahamian and international members united in their commitment to preserve and protect the Bahamian environment through proactive policy change, education, legal action and advocacy.
+[Save the Bays][39] - Save The Bays is a non-profit organisation comprised of Bahamian and international members united in their commitment to preserve and protect the Bahamian environment through proactive policy change, education, legal action and advocacy.
 
 <!-- General Start -->
 <h1>General</h1>
-[Charitable Arts Foundation][?] - Dedicated to supporting endeavors in arts and culture throughout the Bahamas.
+[Charitable Arts Foundation][40] - Dedicated to supporting endeavors in arts and culture throughout the Bahamas.
 
-[Governor-General’s Youth Award][?] - Our participants develop important skills, contribute valuable service to the community, participate in physical recreation activities, and embark upon adventurous journeys.
+[Governor-General’s Youth Award][41] - Our participants develop important skills, contribute valuable service to the community, participate in physical recreation activities, and embark upon adventurous journeys.
 
-[My Heart Matters][?] - Organizes projects, events, research and resources that help families, adults and youths strengthen their self-value, build character, and learn how to better relate, communicate and build healthy relationships. 
+[My Heart Matters][42] - Organizes projects, events, research and resources that help families, adults and youths strengthen their self-value, build character, and learn how to better relate, communicate and build healthy relationships. 
 
 
-[LEAD][?] - To provide programs and services to pre & post prison/correctional facilities inmates as well as to the “At-Risk” males in the educational system and community based life management programs for youths.
+[LEAD][43] - To provide programs and services to pre & post prison/correctional facilities inmates as well as to the “At-Risk” males in the educational system and community based life management programs for youths.
 
-[One Eleuthera][?] - We seek to strengthen orgnaizations and partners throughout Eleuthera by connecting them to the resources they need to create positive and effective changes. 
+[One Eleuthera][44] - We seek to strengthen orgnaizations and partners throughout Eleuthera by connecting them to the resources they need to create positive and effective changes. 
 
-[Pilot Club][?] - To influence positive change in communities throughout the world. To do this, we come together in friendship and give people an outlet for service.
+[Pilot Club][45] - To influence positive change in communities throughout the world. To do this, we come together in friendship and give people an outlet for service.
 
-[Rotary Club][?] - Bringing together business and professional leaders in order to provide humanitarian services, encourage high ethical standards in all vocations, and to advance goodwill and peace around the world.
+[Rotary Club][46] - Bringing together business and professional leaders in order to provide humanitarian services, encourage high ethical standards in all vocations, and to advance goodwill and peace around the world.
 
-[Sir Charles Hayward Library][?] - A public library located on The Mall Drive, Freeport, Grand Bahama.
+[Sir Charles Hayward Library][47] - A public library located on The Mall Drive, Freeport, Grand Bahama.
 
-[Bahamas Urban Development Center][?] - To educate and empower all children to maximize their full potential through early intervention training, academic support and youth development programs that will prepare them for economic self-sufficiency. To learn about sexuality education, and safe sex methods.
+[Bahamas Urban Development Center][48] - To educate and empower all children to maximize their full potential through early intervention training, academic support and youth development programs that will prepare them for economic self-sufficiency. To learn about sexuality education, and safe sex methods.
 
-[YMCA Grand Bahama][?] - To create a community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens. 
+[YMCA Grand Bahama][49] - To create a community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens. 
 
 
 
@@ -720,66 +720,67 @@ Supporting local non-profit groups through financial contributions and volunteer
 <!-- Links Start -->
 <!-- Health Start -->
 
-[?]: https://www.facebook.com/AIDSFOUNDATION.BAH/
-[?]: https://www.amnesty.org/en/countries/americas/bahamas/
-[?]: http://www.basra.org/
-[?]: http://cancersocietybahamas.org/
-[?]: http://bahamascrisiscentre.org/
-[?]: http://www.idf.org/membership/nac/the-bahamas/Bahamas-diabetic-association
-[?]: http://www.bahamasgodparentcenter.org/
-[?]: http://www.handsforhunger.org/
-[?]: http://www.marathonbahamas.com/
-[?]: http://pacebahamas.com/
-[?]: http://pcccbahamas.org/
-[?]: http://www.bahamasredcross.com/
-[?]: http://www.rideforhopebahamas.com/
-[?]: http://www.salvationarmybahamas.org/
-[?]: http://www.sassoonheartfoundation.org/Home.html
-[?]: http://www.sistersisterbahamas.com/
-[?]: http://www.specialolympics.org/Regions/north-america/Locations/Special-Olympics-NA-Bahamas.aspx
-[?]: http://strawincbahamas.com/
+[1]: https://www.facebook.com/AIDSFOUNDATION.BAH/
+[2]: https://www.amnesty.org/en/countries/americas/bahamas/
+[3]: http://www.basra.org/
+[4]: http://cancersocietybahamas.org/
+[5]: http://bahamascrisiscentre.org/
+[6]: http://www.idf.org/membership/nac/the-bahamas/Bahamas-diabetic-association
+[7]: http://www.bahamasgodparentcenter.org/
+[8]: http://www.handsforhunger.org/
+[9]: http://www.marathonbahamas.com/
+[10]: http://pacebahamas.com/
+[11]: http://pcccbahamas.org/
+[12]: http://www.bahamasredcross.com/
+[13]: http://www.rideforhopebahamas.com/
+[14]: http://www.salvationarmybahamas.org/
+[15]: http://www.sassoonheartfoundation.org/Home.html
+[16]: http://www.sistersisterbahamas.com/
+[17]: http://www.specialolympics.org/Regions/north-america/Locations/Special-Olympics-NA-Bahamas.aspx
+[18]: http://strawincbahamas.com/
 
 <!-- Orphanage Start -->
 
-[?]: http://bahamasmethodist.org/bilneylane.html
-[?]: http://www.bahamasgateway.com/bahamas_bceh.html
-[?]: http://www.bahamaslocal.com/showlisting/15720/Elizabeth_Estates_Childrens_Home.html
-[?]: http://www.gbchildrenshome.com/
-[?]: http://bit.ly/2hIN3ZH
-[?]: http://ranfurlyhome.org/
+[19]: http://bahamasmethodist.org/bilneylane.html
+[20]: http://www.bahamasgateway.com/bahamas_bceh.html
+[21]: http://www.bahamaslocal.com/showlisting/15720/Elizabeth_Estates_Childrens_Home.html
+[22]: http://www.gbchildrenshome.com/
+[23]: http://bit.ly/2hIN3ZH
+[24]: http://ranfurlyhome.org/
 
 <!-- Education Start -->
 
-[?]: http://alcbahamas.org/
-[?]: http://www.thecommonwealthwritersofthebahamas.com/
-[?]: http://www.bahamashistoricalsociety.com/
-[?]: http://www.jes-us.org/index.html
-[?]: https://www.lyfordcayfoundation.org/
-[?]: http://www.yestoeducation.com/
+[25]: http://alcbahamas.org/
+[26]: http://www.thecommonwealthwritersofthebahamas.com/
+[27]: http://www.bahamashistoricalsociety.com/
+[28]: http://www.jes-us.org/index.html
+[29]: https://www.lyfordcayfoundation.org/
+[30]: http://www.yestoeducation.com/
 
 <!-- Pet Start -->
 
-[?]: http://www.baarkbahamas.com/
-[?]: http://www.proudpaws.org/
+[31]: http://www.baarkbahamas.com/
+[32]: http://www.bahamashumanesociety.com/
+[33]: http://www.proudpaws.org/
 
 <!-- Nature Start -->
 
-[?]: http://www.friendsoftheenvironment.org/about-friends/
-[?]: http://bnt.bs/
-[?]: https://breef.org/
-[?]: http://www.levypreserve.org/
-[?]: http://www.nature.org/ourinitiatives/regions/caribbean/bahamas/index.html
-[?]: http://www.savethebays.bs/
+[34]: http://www.friendsoftheenvironment.org/about-friends/
+[35]: http://bnt.bs/
+[36]: https://breef.org/
+[37]: http://www.levypreserve.org/
+[38]: http://www.nature.org/ourinitiatives/regions/caribbean/bahamas/index.html
+[39]: http://www.savethebays.bs/
 
 <!-- General Start -->
 
-[?]: https://www.facebook.com/Charitable-Arts-Foundation-of-the-Bahamas-1477849049180058/
-[?]: https://www.facebook.com/pg/The-Governor-Generals-Youth-Award-GGYA-680136822046019/about/?ref=page_internal
-[?]: http://www.myheartmatters.com/index.php
-[?]: http://thenationalleadinstitute.org/
-[?]: http://oneeleuthera.org/
-[?]: https://www.facebook.com/Pilot-Club-Of-Nassau-592272420878987/
-[?]: https://www.facebook.com/Rotary-Clubs-of-The-Bahamas-689069464452408/?fref=ts
-[?]: https://www.facebook.com/pg/Sir-Charles-Hayward-Library-575514485845000/about/?ref=page_internal
-[?]: http://orgs.tigweb.org/bahamas-urban-youth-development-center
-[?]: http://www.ymcabahamas.com/
+[40]: https://www.facebook.com/Charitable-Arts-Foundation-of-the-Bahamas-1477849049180058/
+[41]: https://www.facebook.com/pg/The-Governor-Generals-Youth-Award-GGYA-680136822046019/about/?ref=page_internal
+[42]: http://www.myheartmatters.com/index.php
+[43]: http://thenationalleadinstitute.org/
+[44]: http://oneeleuthera.org/
+[45]: https://www.facebook.com/Pilot-Club-Of-Nassau-592272420878987/
+[46]: https://www.facebook.com/Rotary-Clubs-of-The-Bahamas-689069464452408/?fref=ts
+[47]: https://www.facebook.com/pg/Sir-Charles-Hayward-Library-575514485845000/about/?ref=page_internal
+[48]: http://orgs.tigweb.org/bahamas-urban-youth-development-center
+[49]: http://www.ymcabahamas.com/
