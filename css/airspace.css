@@ -13,10 +13,7 @@
 /*--
 	Common Css
 --*/
-body {
-  font-family: 'Open Sans', sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
+p,
 h1,
 h2,
 h3,
@@ -24,6 +21,7 @@ h4,
 h5,
 h6 {
   font-family: 'Roboto', sans-serif;
+  padding-left: 30px;
 }
 h2 {
   font-size: 30px;
@@ -192,7 +190,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/call-to-action-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  padding: 70px 0px;
+  padding: 30px 0px;
   position: relative;
   text-align: center;
   color: #fff;
@@ -206,11 +204,10 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
+  background: rgb(36, 69, 99);
   opacity: 0.8;
 }
 #call-to-action h2 {
-  padding-bottom: 20px;
   line-height: 33px;
   margin: 0;
   font-size: 30px;
@@ -225,7 +222,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #fff;
   font-size: 15px;
   color: #333333;
-  margin-top: 30px;
 }
 /*--
 	Feature Start
@@ -468,7 +464,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 32.22%;
+  width: 22%;
   overflow: hidden;
   margin: 6px;
   position: relative;
@@ -489,12 +485,13 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #fff;
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
-  font-size: 22px;
+  font-size: 1.5vw;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 #portfolio-work .block .portfolio-contant ul li a p {
-  font-size: 15px;
+  font-size: 1vw;
+  line-height: 1vw;
 }
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
@@ -521,7 +518,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
-  left: 10%;
+  left: -2vw;
   -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);
@@ -771,21 +768,55 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 /*---------------------------*/
 /*--
-	footer Start
+  Subfooter Start
+--*/
+subfooter p {
+  font-size: 13px;
+  line-height: 25px;
+  color: #000000;
+}
+subfooter a {
+  color: #000;
+}
+subfooter .subfooter-manu {
+    background: #045398;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px
+}
+subfooter .subfooter-manu ul {
+  margin: 0px;
+  padding: 0px;
+}
+subfooter .subfooter-manu ul li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+subfooter .subfooter-manu ul li a {
+  display: inline-block;
+  color: #fff;
+}
+subfooter .subfooter-manu ul li a:hover {
+  color: #000;
+}
+/*---------------------------*/
+/*--
+  footer Start
 --*/
 footer {
-  background: #F5F5F5;
+  background: #fff;
   text-align: center;
-  padding-top: 48px;
-  padding-bottom: 55px;
+  padding-top: 25px;
+  padding-bottom: 0px;
+  font-family: arial;
 }
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #000000;
 }
 footer a {
-  color: #595959;
+  color: #ff0000;
 }
 footer .footer-manu {
   padding-bottom: 25px;
@@ -800,8 +831,8 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #000000;
 }
 footer .footer-manu ul li a:hover {
-  color: #000;
+  color: #0645AD;
 }
