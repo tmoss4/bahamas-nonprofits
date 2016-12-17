@@ -42,7 +42,7 @@ permalink: /
               <!-- Health Start -->
               <li class="mix Health">
                 <a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamasaids-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>AIDS Foundation of the Bahamas</h2>
@@ -51,9 +51,20 @@ permalink: /
                   </div>
                 </a>
               </li>
+              <li class="mix Nature"> <!-- Health selection affordance -->
+                <a href="http://www.nature.org/ourinitiatives/regions/caribbean/bahamas/index.html">
+                  <img src="{{ site.baseurl }}/img/portfolio/natureconservatory-logo.png" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>The Nature Conservatory</h2>
+                      <p>Working with government and local partners to protect priority land and sea habitats.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
               <li class="mix Health">
                 <a href="https://www.amnesty.org/en/countries/americas/bahamas/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/amnesty-logo.jpeg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Amnesty International</h2>
@@ -64,7 +75,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.basra.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/basra-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Air Sea Rescue Association (BASRA)</h2>
@@ -75,7 +86,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/cancersociety-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>The Cancer Society of The Bahamas</h2>
@@ -86,18 +97,18 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://bahamascrisiscentre.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/crisiscenter-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Crisis Center</h2>
-                      <p>offers free counseling and services for men, women and children who are experiencing any form of abuse; family, relationship of behavioral problem.</p>
+                      <p>Offers free counseling and services for men, women and children who are experiencing any form of abuse; family, relationship of behavioral problem.</p>
                     </div>
                   </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamasdiabetic-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Diabetic Association</h2>
@@ -108,7 +119,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.bahamasgodparentcenter.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/godparent-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Godparent Pregnancy Youth and Family Center</h2>
@@ -119,7 +130,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.handsforhunger.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/handsforhunger-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Hands for Hunger</h2>
@@ -130,7 +141,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/marathonbahamas-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Marathon Bahamas</h2>
@@ -141,7 +152,7 @@ permalink: /
               </li>
                <li class="mix Health">
                 <a href="http://pacebahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/pace-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Providing Access to Continued Education (PACE)</h2>
@@ -152,7 +163,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/pcct-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>The Physically Challenged Children’s Committee</h2>
@@ -163,7 +174,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.bahamasredcross.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamasredcross-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Red Cross</h2>
@@ -174,7 +185,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.rideforhopebahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/rideforhope-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Ride For Hope Bahamas</h2>
@@ -185,7 +196,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.salvationarmybahamas.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/salvationarmy-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Salvation Army</h2>
@@ -196,7 +207,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.salvationarmybahamas.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/sassoonheart-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Sassoon Heart Foundation</h2>
@@ -207,7 +218,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.sistersisterbahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/sister-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Sister Sister Breast Cancer Support Group</h2>
@@ -218,7 +229,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://www.specialolympics.org/Regions/north-america/Locations/Special-Olympics-NA-Bahamas.aspx">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/specialolympics-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Special Olympics</h2>
@@ -229,7 +240,7 @@ permalink: /
               </li>
               <li class="mix Health">
                 <a href="http://strawincbahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work1.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/straw-logo.jpeg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>STRAW Center for Young Women</h2>
@@ -242,7 +253,7 @@ permalink: /
               <!-- Orphanage Start -->
               <li class="mix Orphanage">
                 <a href="http://bahamasmethodist.org/bilneylane.html">
-                  <img src="{{ site.baseurl }}/img/portfolio/work2.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bilneylane-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bilney Lane Children’s Home</h2>
@@ -253,7 +264,7 @@ permalink: /
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.bahamasgateway.com/bahamas_bceh.html">
-                  <img src="{{ site.baseurl }}/img/portfolio/work2.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/childrenshostel-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Children’s Emergency Hostel</h2>
@@ -264,7 +275,7 @@ permalink: /
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.bahamaslocal.com/showlisting/15720/Elizabeth_Estates_Childrens_Home.html">
-                  <img src="{{ site.baseurl }}/img/portfolio/work2.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/elizabeth-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Elizabeth Estates Children’s Home</h2>
@@ -275,7 +286,7 @@ permalink: /
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.gbchildrenshome.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work2.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/gbchildrenshome-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Grand Bahama Children’s Home</h2>
@@ -286,7 +297,7 @@ permalink: /
               </li>
               <li class="mix Orphanage">
                 <a href="http://bit.ly/2hIN3ZH">
-                  <img src="{{ site.baseurl }}/img/portfolio/work2.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/oldbight-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Old Bight Mission Home</h2>
@@ -297,7 +308,7 @@ permalink: /
               </li>
               <li class="mix Orphanage">
                 <a href="http://ranfurlyhome.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work2.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/ranfurly-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Ranfurly Home</h2>
@@ -310,7 +321,7 @@ permalink: /
               <!-- Education Start -->
               <li class="mix Education">
                 <a href="http://alcbahamas.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamasadventure-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Adventure Learning Center</h2>
@@ -321,7 +332,7 @@ permalink: /
               </li>
               <li class="mix Education">
                 <a href="http://www.thecommonwealthwritersofthebahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/commonwealthwriters-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>The Commonwealth Writers of the Bahamas</h2>
@@ -332,7 +343,7 @@ permalink: /
               </li>
               <li class="mix Education">
                 <a href="https://breef.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamashistorical-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Historical Society</h2>
@@ -343,7 +354,7 @@ permalink: /
               </li>
               <li class="mix Education">
                 <a href="http://www.jes-us.org/index.html">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/jes-us-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Jes-us</h2>
@@ -354,7 +365,7 @@ permalink: /
               </li>
               <li class="mix Education">
                 <a href="https://www.lyfordcayfoundation.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/lyfordcay-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Lyford Cay Foundation</h2>
@@ -365,7 +376,7 @@ permalink: /
               </li>
               <li class="mix Education">
                 <a href="http://www.yestoeducation.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/yestoeducation-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Yes to Education</h2>
@@ -378,7 +389,7 @@ permalink: /
               <!-- Pet Start -->
               <li class="mix Pet">
                 <a href="http://www.baarkbahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work4.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/baark-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Baark!</h2>
@@ -389,7 +400,7 @@ permalink: /
               </li>
               <li class="mix Pet">
                 <a href="http://www.bahamashumanesociety.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work4.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamashumane-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Humane Society</h2>
@@ -400,7 +411,7 @@ permalink: /
               </li>
               <li class="mix Pet">
                 <a href="http://www.proudpaws.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work4.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/proudpaws-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Proud Paws</h2>
@@ -413,18 +424,18 @@ permalink: /
               <!-- Nature Start -->
               <li class="mix Nature">
                 <a href="http://www.friendsoftheenvironment.org/about-friends/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/friends-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Friends of the Bahamas</h2>
-                      <p>works to preserve and protect Abaco’s terrestrial and marine environments in order to achieve sustainable living for the wildlife and the people of Abaco.</p>
+                      <p>Works to preserve and protect Abaco’s terrestrial and marine environments in order to achieve sustainable living for the wildlife and the people of Abaco.</p>
                     </div>
                   </div>
                 </a>
               </li>
               <li class="mix Nature">
                 <a href="http://bnt.bs/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamasnationaltrust-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas National Trust</h2>
@@ -435,7 +446,7 @@ permalink: /
               </li>
               <li class="mix Nature">
                 <a href="https://breef.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/breef-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Reef Environment Educational Foundation (BREEF)</h2>
@@ -446,7 +457,7 @@ permalink: /
               </li>
               <li class="mix Nature">
                 <a href="http://www.levypreserve.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/leonlevy-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Leon Levy Native Plant Preserve</h2>
@@ -456,19 +467,8 @@ permalink: /
                 </a>
               </li>
               <li class="mix Nature">
-                <a href="http://www.nature.org/ourinitiatives/regions/caribbean/bahamas/index.html">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>The Nature Conservatory</h2>
-                      <p>Working with government and local partners to protect priority land and sea habitats.</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Nature">
                 <a href="http://www.savethebays.bs/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/savethebays-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Save the Bays</h2>
@@ -481,7 +481,7 @@ permalink: /
               <!-- General Start -->
               <li class="mix General">
                 <a href="https://www.facebook.com/Charitable-Arts-Foundation-of-the-Bahamas-1477849049180058/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/charitablearts-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Charitable Arts Foundation</h2>
@@ -492,7 +492,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/pg/The-Governor-Generals-Youth-Award-GGYA-680136822046019/about/?ref=page_internal">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/ggya-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Governor-General’s Youth Award</h2>
@@ -503,7 +503,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="http://www.myheartmatters.com/index.php">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/myheart-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>My Heart Matters</h2>
@@ -514,7 +514,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="http://thenationalleadinstitute.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/lead-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>LEAD</h2>
@@ -525,7 +525,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="http://oneeleuthera.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/oneeleuthera-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>One Eleuthera</h2>
@@ -536,7 +536,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/Pilot-Club-Of-Nassau-592272420878987/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work5.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/pilot-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Pilot Club</h2>
@@ -547,7 +547,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/Rotary-Clubs-of-The-Bahamas-689069464452408/?fref=ts">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/rotary-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Rotary Club</h2>
@@ -558,7 +558,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/pg/Sir-Charles-Hayward-Library-575514485845000/about/?ref=page_internal">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/sircharles-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Sir Charles Hayward Library</h2>
@@ -569,7 +569,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="http://orgs.tigweb.org/bahamas-urban-youth-development-center">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/buydc-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Bahamas Urban Development Center</h2>
@@ -580,7 +580,7 @@ permalink: /
               </li>
                <li class="mix General">
                 <a href="http://www.ymcabahamas.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/work3.jpg" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/ymca-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>YMCA Grand Bahama</h2>
