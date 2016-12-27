@@ -74,6 +74,17 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
+                <a href="http://www.bahamaslocal.com/listing_email/15722/cable_bahamas/">
+                  <img src="{{ site.baseurl }}/img/portfolio/bash-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Bahamas Association for Social Health (BASH)</h2>
+                      <p>BASH manages an adult male residential substance dependency treatment and rehabilitation (T&R) program based on the cognitive behavioral therapy, 12-Step facilitation, and motivational enhancement therapy.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li class="mix Health">
                 <a href="http://www.basra.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/basra-logo.jpg" alt="">
                   <div class="overly">
@@ -605,6 +616,8 @@ permalink: /
 
 [Amnesty International][2] - Amnesty International is a global movement of more than 7 million people who take injustice personally. We are campaigning for a world where human rights are enjoyed by all.
 
+[Bahamas Association for Social Health (BASH)][3] - BASH manages an adult male residential substance dependency treatment and rehabilitation (T&R) program based on the cognitive behavioral therapy, 12-Step facilitation, and motivational enhancement therapy.
+
 [Bahamas Air Sea Rescue Association (BASRA)][3] - The Bahamas Air Sea Rescue Association is a dedicated non-profit voluntary organization committed to saving the lives of distressed seamen or airmen in the Bahamas. 
 
 [The Cancer Society of The Bahamas][4] - The Cancer Society offers education, health care, counseling and support to individuals and families dealing with cancer.
@@ -722,6 +735,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [1]: https://www.facebook.com/AIDSFOUNDATION.BAH/
 [2]: https://www.amnesty.org/en/countries/americas/bahamas/
+[50]: http://www.bahamaslocal.com/listing_email/15722/cable_bahamas/
 [3]: http://www.basra.org/
 [4]: http://cancersocietybahamas.org/
 [5]: http://bahamascrisiscentre.org/
