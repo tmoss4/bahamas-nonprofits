@@ -129,6 +129,17 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
+                <a href="http://www.bahamaslocal.com/showlisting/6722/Bahamas_Family_Planning_Association.html">
+                  <img src="{{ site.baseurl }}/img/portfolio/familyplanning-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Bahamas Family Planning Association</h2>
+                      <p>Provides a spectrum of family planning and sexual and reproductive health services.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li class="mix Health">
                 <a href="http://www.bahamasgodparentcenter.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/godparent-logo.jpg" alt="">
                   <div class="overly">
@@ -307,6 +318,17 @@ permalink: /
                 </a>
               </li>
               <li class="mix Orphanage">
+                <a href="http://www.bahamaslocal.com/newsitem/154530/Summer_Fun_for_Children_of_Nazareth_Centre.html">
+                  <img src="{{ site.baseurl }}/img/portfolio/nazarethcenter-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>The Nazareth Home for Children</h2>
+                      <p>The Home provides 24 hour care for up to 50 children aged 0-11.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li class="mix Orphanage">
                 <a href="http://bit.ly/2hIN3ZH">
                   <img src="{{ site.baseurl }}/img/portfolio/oldbight-logo.jpg" alt="">
                   <div class="overly">
@@ -381,6 +403,17 @@ permalink: /
                     <div class="position-center">
                       <h2>Lyford Cay Foundation</h2>
                       <p>Increasing the availability of higher education and technical training for Bahamians. Supporting local non-profit groups through financial contributions and volunteer initiatives.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li class="mix Education">
+                <a href="https://www.facebook.com/Project-Read-Bahamas-243778569015562/">
+                  <img src="{{ site.baseurl }}/img/portfolio/read-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Project Read Bahamas</h2>
+                      <p>Helps individuals acquire the listening, speaking, and reading skills they need to solve the problems they encounter in daily life.</p>
                     </div>
                   </div>
                 </a>
@@ -502,6 +535,17 @@ permalink: /
                 </a>
               </li>
               <li class="mix General">
+                <a href="http://www.crimestoppersbahamas.com/">
+                  <img src="{{ site.baseurl }}/img/portfolio/crimestoppers-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Crimestoppers Bahamas</h2>
+                      <p>Dedicated to the ongoing development and implementation of an effective, community-based crime solving program.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li class="mix General">
                 <a href="https://www.facebook.com/pg/The-Governor-Generals-Youth-Award-GGYA-680136822046019/about/?ref=page_internal">
                   <img src="{{ site.baseurl }}/img/portfolio/ggya-logo.jpg" alt="">
                   <div class="overly">
@@ -541,6 +585,17 @@ permalink: /
                     <div class="position-center">
                       <h2>One Eleuthera</h2>
                       <p>Connect organizations to the resources they need to create positive and effective changes.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li class="mix General">
+                <a href="http://ourcarmichaeljobs.wixsite.com/agency/about-us">
+                  <img src="{{ site.baseurl }}/img/portfolio/oneeleuthera-logo.png" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Our Carmichael</h2>
+                      <p>Assists businesses and job seekers in the Carmichael area.</p>
                     </div>
                   </div>
                 </a>
@@ -589,6 +644,17 @@ permalink: /
                   </div>
                 </a>
               </li>
+              <li class="mix General">
+                <a href="http://www.lion-king-bahamas.com/about/violets-are-blue/">
+                  <img src="{{ site.baseurl }}/img/portfolio/violetsareblue-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Violets Are Blue</h2>
+                      <p>Encourages, develops, and fosters entrepreneurship in Nassaus Inner City communities.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
                <li class="mix General">
                 <a href="http://www.ymcabahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/ymca-logo.png" alt="">
@@ -626,6 +692,8 @@ permalink: /
 
 [Bahamas Diabetic Association][6] - To educate and give moral support to persons with diabetes and their family.
 
+[Bahamas Family Planning Association][56] - Provides a spectrum of family planning and sexual and reproductive health services.
+
 [Bahamas Godparent Pregnancy Youth and Family Center][7] - Non-profit crisis pregnancy and youth center offering support, education, and resources to men and women facing unplanned pregnancies.
 
 [Hands for Hunger][8] - Fresh, surplus food rescue; non-perishable food storage; education; and awareness.
@@ -653,17 +721,21 @@ permalink: /
 
 <!-- Orphanage Start -->
 <h1>Orphanage</h1>
-[Bilney Lane Children’s Home][19] - Provides comprehensive child care services for displaced children.
+[Bilney Lane Children’s Home][19] - Provides comprehensive child care services for displaced children aged 2-12.
 
-[Children’s Emergency Hostel][20] - The sole purpose of the Hostel is to provide temporary accommodation, food, clothing, medical care and other necessities for the benefit of abandoned and neglected children, until more permanent arrangements could be made for their welfare.
+[Children’s Emergency Hostel][20] - The sole purpose of the Hostel is to provide temporary accommodation, food, clothing, medical care and other necessities for the benefit of abandoned and neglected children, until more permanent arrangements could be made for their welfare. Children aged 0-11.
 
-[Elizabeth Estates Children’s Home][21] - The Home provides 24 hour care for up to 50 children between the ages of 11 and 17 years.
+[Elizabeth Estates Children’s Home][21] - The Home provides 24 hour care for up to 50 children aged 11-17.
 
 [Grand Bahama Children’s Home][22] - Helping the island’s beautiful yet neglected children live in a safe and loving home.
 
-[Old Bight Mission Home][23] - Located on Cat Island and run by Pastor Russell, his wife, and staff.
+[The Nazareth Home for Children][52] - The Home provides 24 hour care for up to 50 children aged 0-11.
 
-[Ranfurly Home][24] - The Ranfurly Homes for Children exist to provide comprehensive child care services for displaced children due to death, separation, abuse, abandonment, illness or other unfortunate circumstances.
+[Old Bight Mission Home][23] - Located on Cat Island and run by Pastor Russell, his wife, and staff. Children aged 6-11.
+
+[Ranfurly Homes for Children][24] - The Ranfurly Homes for Children exist to provide comprehensive child care services for displaced children due to death, separation, abuse, abandonment, illness or other unfortunate circumstances. Children aged 11-18.
+
+Read more about residential care for children in the Bahamas [here][53].
 
 <!-- Education Start -->
 <h1>Education</h1>
@@ -679,6 +751,8 @@ permalink: /
 To this end, we direct our resources into two principal areas:
 Increasing the availability of higher education and technical training for Bahamians
 Supporting local non-profit groups through financial contributions and volunteer initiatives.
+
+[Project Read Bahamas][51] - The purpose of Project Read Bahamas is to enable individuals to acquire the listening, speaking and reading skills they need to solve the problems they encounter in daily life: to take full advantage of opportunities in their environment and to participate fully in the positive transformation of their Society.
 
 [Yes to Education][30] - The Yes to Education Foundation is a not-for-profit organization committed to improving educational outcomes for all students in The Bahamas by focusing on high impact professional development opportunities for teachers, and quality enrichment opportunities for students.
 
@@ -708,14 +782,17 @@ Supporting local non-profit groups through financial contributions and volunteer
 <h1>General</h1>
 [Charitable Arts Foundation][40] - Dedicated to supporting endeavors in arts and culture throughout the Bahamas.
 
+[Crimestoppers Bahamas][54] - Dedicated to the ongoing development and implementation of an effective, community-based crime solving program.
+
 [Governor-General’s Youth Award][41] - Our participants develop important skills, contribute valuable service to the community, participate in physical recreation activities, and embark upon adventurous journeys.
 
 [My Heart Matters][42] - Organizes projects, events, research and resources that help families, adults and youths strengthen their self-value, build character, and learn how to better relate, communicate and build healthy relationships. 
 
-
 [LEAD][43] - To provide programs and services to pre & post prison/correctional facilities inmates as well as to the “At-Risk” males in the educational system and community based life management programs for youths.
 
 [One Eleuthera][44] - We seek to strengthen orgnaizations and partners throughout Eleuthera by connecting them to the resources they need to create positive and effective changes. 
+
+[Our Carmichael][57] - Assists businesses and job seekers in the Carmichael area.
 
 [Pilot Club][45] - To influence positive change in communities throughout the world. To do this, we come together in friendship and give people an outlet for service.
 
@@ -724,6 +801,8 @@ Supporting local non-profit groups through financial contributions and volunteer
 [Sir Charles Hayward Library][47] - A public library located on The Mall Drive, Freeport, Grand Bahama.
 
 [Bahamas Urban Development Center][48] - To educate and empower all children to maximize their full potential through early intervention training, academic support and youth development programs that will prepare them for economic self-sufficiency. To learn about sexuality education, and safe sex methods.
+
+[Violets Are Blue][55] - Encourages, develops, and fosters entrepreneurship in Nassaus Inner City communities.
 
 [YMCA Grand Bahama][49] - To create a community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens. 
 
@@ -752,6 +831,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 [16]: http://www.sistersisterbahamas.com/
 [17]: http://www.specialolympics.org/Regions/north-america/Locations/Special-Olympics-NA-Bahamas.aspx
 [18]: http://strawincbahamas.com/
+[56]: http://www.bahamaslocal.com/showlisting/6722/Bahamas_Family_Planning_Association.html
 
 <!-- Orphanage Start -->
 
@@ -761,6 +841,8 @@ Supporting local non-profit groups through financial contributions and volunteer
 [22]: http://www.gbchildrenshome.com/
 [23]: http://bit.ly/2hIN3ZH
 [24]: http://ranfurlyhome.org/
+[52]: http://www.bahamaslocal.com/newsitem/154530/Summer_Fun_for_Children_of_Nazareth_Centre.html
+[53]: http://bit.ly/2gK59bK
 
 <!-- Education Start -->
 
@@ -770,6 +852,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 [28]: http://www.jes-us.org/index.html
 [29]: https://www.lyfordcayfoundation.org/
 [30]: http://www.yestoeducation.com/
+[51]: https://www.facebook.com/Project-Read-Bahamas-243778569015562/
 
 <!-- Pet Start -->
 
@@ -798,3 +881,6 @@ Supporting local non-profit groups through financial contributions and volunteer
 [47]: https://www.facebook.com/pg/Sir-Charles-Hayward-Library-575514485845000/about/?ref=page_internal
 [48]: http://orgs.tigweb.org/bahamas-urban-youth-development-center
 [49]: http://www.ymcabahamas.com/
+[54]: http://www.crimestoppersbahamas.com/
+[55]: http://www.lion-king-bahamas.com/about/violets-are-blue/
+[57]: http://ourcarmichaeljobs.wixsite.com/agency/about-us
