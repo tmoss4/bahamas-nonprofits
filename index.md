@@ -41,7 +41,7 @@ permalink: /
             <ul id="portfolio-contant-active">
               <!-- Health Start -->
                <li class="mix Health">
-                [![alt text](https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07 "Let's check Jason S' profile page")][1]
+                  [![alt text][picture1]][hyperlink]
                   <span class="overly">
                     <span class="position-center">
                       <h2>Tests</h2>
@@ -893,3 +893,6 @@ Supporting local non-profit groups through financial contributions and volunteer
 [54]: http://www.crimestoppersbahamas.com/
 [55]: http://www.lion-king-bahamas.com/about/violets-are-blue/
 [57]: http://ourcarmichaeljobs.wixsite.com/agency/about-us
+
+ [picture1]: https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07 (tooltip)
+ [hyperlink]: example.org
