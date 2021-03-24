@@ -327,6 +327,7 @@ permalink: /
                     </div>
                   </div>
                 </a>
+              </li>
               <li class="mix Orphanage">
                 <a href="http://ranfurlyhome.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/ranfurly-logo.jpg" alt="">
