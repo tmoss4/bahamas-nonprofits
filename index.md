@@ -48,7 +48,6 @@ permalink: /
                       <p>Dedicated to the fight against HIV/AIDS in the Bahamas and worldwide.</p>
                     </span>
                   </span>
-                </a>
                 <a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasaids-logo.jpg" alt="">
                   <span class="overly">
