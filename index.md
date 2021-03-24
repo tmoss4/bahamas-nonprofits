@@ -41,8 +41,8 @@ permalink: /
             <ul id="portfolio-contant-active">
               <!-- Health Start -->
               <li class="mix Health">
-                  [![alt text](https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
-"Let's check Jason S' profile page")][1]
+                [<a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">]
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamasaids-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>AIDS Foundation of the Bahamas</h2>
