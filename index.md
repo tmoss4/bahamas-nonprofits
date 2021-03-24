@@ -41,9 +41,10 @@ permalink: /
             <ul id="portfolio-contant-active">
               <!-- Health Start -->
               <li class="mix Health">
-                [1]
+                [<a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">]
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasaids-logo.jpg" alt="">
                   <div class="overly">
+                    <div class="position-center">
                       <h2>AIDS Foundation of the Bahamas</h2>
                       <p>Dedicated to the fight against HIV/AIDS in the Bahamas and worldwide.</p>
                     </div>
