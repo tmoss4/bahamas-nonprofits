@@ -644,6 +644,7 @@ permalink: /
 
 <!-- Health Start -->
 <h1>Health</h1>
+
 [AIDS Foundation of the Bahamas][1] - The Bahamas AIDS Foundation is a non-profit, non-government organization dedicated to the fight against HIV/AIDS in the Bahamas and worldwide.
 
 [Amnesty International][2] - Amnesty International is a global movement of more than 7 million people who take injustice personally. We are campaigning for a world where human rights are enjoyed by all.
