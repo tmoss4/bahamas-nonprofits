@@ -11,8 +11,8 @@ permalink: /
       <div class="col-md-12">
         <div class="block">
           <h1>Nonprofits in the Bahamas</h1>
-          <p>Click an organization's logo to head to their website or scroll to the bottom of the page to read more detailed descriptions of each organization listed. <br/> Don't see an organization you think should be up here?<br/>Send us an email and we'll have it added!</p>
-          <a class="btn btn-default btn-call-to-action" href="mailto:moss.theophilus@gmail.com" >Send us an email</a>
+          <p>Click an organization's logo to head to their website or scroll to the bottom of the page to read more detailed descriptions of each organization listed. <br/> Don't see an organization you think should be up here?<br/>Send me an email and I'll add it!</p>
+          <a class="btn btn-default btn-call-to-action" href="mailto:moss.theophilus@gmail.com" >Send me an email</a>
           <h2 style="padding-top: 30px">No act of kindness, no matter how small, is ever wasted.</h2>
         </div>
       </div>
