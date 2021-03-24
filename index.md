@@ -6,27 +6,27 @@ permalink: /
 
 <!-- Call to action Start -->
 <section id="call-to-action">
-  <span class="container">
-    <span class="row">
-      <span class="col-md-12">
-        <span class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
           <h1>Nonprofits in the Bahamas</h1>
           <p>Click an organization's logo to head to their website or scroll to the bottom of the page to read more detailed descriptions of each organization listed. <br/> Don't see an organization you think should be up here?<br/>Send us an email and we'll have it added!</p>
           <a class="btn btn-default btn-call-to-action" href="mailto:moss.theophilus@gmail.com" >Send us an email</a>
           <h2 style="padding-top: 30px">No act of kindness, no matter how small, is ever wasted.</h2>
-        </span>
-      </span>
-    </span>
-  </span>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- Portfolio Start -->
 <section id="portfolio-work">
-  <span class="container">
-    <span class="row">
-      <span class="col-md-12">
-        <span class="block">
-          <span class="portfolio-menu">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="portfolio-menu">
             <ul>
               <li class="filter" data-filter="all">Everything</li>
               <li class="filter" data-filter=".Health">Health</li>
@@ -36,239 +36,239 @@ permalink: /
               <li class="filter" data-filter=".Nature">Nature</li>
               <li class="filter" data-filter=".General">General</li>
             </ul>
-          </span>
-          <span class="portfolio-contant">
+          </div>
+          <div class="portfolio-contant">
             <ul id="portfolio-contant-active">
               <!-- Health Start -->
               <li class="mix Health">
-                <a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">
+                [<a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">]
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasaids-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>AIDS Foundation of the Bahamas</h2>
                       <p>Dedicated to the fight against HIV/AIDS in the Bahamas and worldwide.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Nature"> <!-- Health selection affordance -->
                 <a href="http://www.nature.org/ourinitiatives/regions/caribbean/bahamas/index.html">
                   <img src="{{ site.baseurl }}/img/portfolio/natureconservatory-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>The Nature Conservatory</h2>
                       <p>Working with government and local partners to protect priority land and sea habitats.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="https://www.amnesty.org/en/countries/americas/bahamas/">
                   <img src="{{ site.baseurl }}/img/portfolio/amnesty-logo.jpeg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Amnesty International</h2>
                       <p>Campaigning for a world where human rights are enjoyed by all.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.bahamaslocal.com/listing_email/15722/cable_bahamas/">
                   <img src="{{ site.baseurl }}/img/portfolio/bash-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Association for Social Health (BASH)</h2>
                       <p>BASH manages an adult male residential substance dependency treatment and rehabilitation (T&R) program based on the cognitive behavioral therapy, 12-Step facilitation, and motivational enhancement therapy.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.basra.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/basra-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Air Sea Rescue Association (BASRA)</h2>
                       <p>Committed to saving the lives of distressed seamen or airmen in the Bahamas.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/cancersociety-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>The Cancer Society of The Bahamas</h2>
-                      <p>Offers education, health care, counseling and support to inspaniduals and families dealing with cancer.</p>
-                    </span>
-                  </span>
+                      <p>Offers education, health care, counseling and support to individuals and families dealing with cancer.</p>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://bahamascrisiscentre.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/crisiscenter-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Crisis Center</h2>
                       <p>Offers free counseling and services for men, women and children who are experiencing any form of abuse; family, relationship of behavioral problem.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasdiabetic-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Diabetic Association</h2>
                       <p>To educate and give moral support to persons with diabetes and their family.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.bahamaslocal.com/showlisting/6722/Bahamas_Family_Planning_Association.html">
                   <img src="{{ site.baseurl }}/img/portfolio/familyplanning-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Family Planning Association</h2>
                       <p>Provides a spectrum of family planning and sexual and reproductive health services.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.bahamasgodparentcenter.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/godparent-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Godparent Pregnancy Youth and Family Center</h2>
                       <p>Crisis pregnancy and youth center offering support, education, and resources to men and women facing unplanned pregnancies.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.handsforhunger.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/handsforhunger-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Hands for Hunger</h2>
                       <p>Fresh, surplus food rescue; non-perishable food storage; education; and awareness.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/marathonbahamas-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Marathon Bahamas</h2>
                       <p>Cancer awareness education and cancer treatment support.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
                <li class="mix Health">
                 <a href="http://pacebahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/pace-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Providing Access to Continued Education (PACE)</h2>
                       <p>Support, educate, and empower teenaged mothers.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.marathonbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/pcct-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>The Physically Challenged Children’s Committee</h2>
                       <p>Assists children with crippling conditions arising from polio or other causes.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.bahamasredcross.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasredcross-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Red Cross</h2>
                       <p>Seeks to improve the lives of the most vulnerable in our communities.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.rideforhopebahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/rideforhope-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Ride For Hope Bahamas</h2>
                       <p>Assists Bahamians in the fight against cancer, through education, testing, early-screening, research and direct financial assistance.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.salvationarmybahamas.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/salvationarmy-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Salvation Army</h2>
                       <p>Offers a variety of social services such as a food program, woman’s shelter, and thrift store.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.sassoonheartfoundation.org/Home.html">
                   <img src="{{ site.baseurl }}/img/portfolio/sassoonheart-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Sassoon Heart Foundation</h2>
                       <p>Assists Bahamians with heart ailments, raise awareness of heart disease, and communicate what you can do to live a heart healthy lifestyle.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.sistersisterbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/sister-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Sister Sister Breast Cancer Support Group</h2>
                       <p>To empower and educate women to actively participate in preventative health and support those diagnosed.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://www.specialolympics.org/Regions/north-america/Locations/Special-Olympics-NA-Bahamas.aspx">
                   <img src="{{ site.baseurl }}/img/portfolio/specialolympics-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Special Olympics</h2>
                       <p>Assists Bahamians with heart ailments, raise awareness of heart disease, and communicate what you can do to live a heart healthy lifestyle.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Health">
                 <a href="http://strawincbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/straw-logo.jpeg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>STRAW Center for Young Women</h2>
                       <p>Youth development organization which provides a safe, positive and structured mentoring program for adolescent girls, teen girls and young women in the Bahamas.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <!-- Health End -->
@@ -276,78 +276,78 @@ permalink: /
               <li class="mix Orphanage">
                 <a href="http://bahamasmethodist.org/bilneylane.html">
                   <img src="{{ site.baseurl }}/img/portfolio/bilneylane-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bilney Lane Children’s Home</h2>
                       <p>Provides comprehensive child care services for displaced children.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.bahamasgateway.com/bahamas_bceh.html">
                   <img src="{{ site.baseurl }}/img/portfolio/childrenshostel-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Children’s Emergency Hostel</h2>
                       <p>Provides temporary accommodation, food, clothing, medical care and other necessities for the benefit of abandoned and neglected children.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.bahamaslocal.com/showlisting/15720/Elizabeth_Estates_Childrens_Home.html">
                   <img src="{{ site.baseurl }}/img/portfolio/elizabeth-logo.JPG" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Elizabeth Estates Children’s Home</h2>
                       <p>The Home provides 24 hour care for up to 50 children between the ages of 11 and 17 years.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.gbchildrenshome.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/gbchildrenshome-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Grand Bahama Children’s Home</h2>
                       <p>The Home provides 24 hour care for up to 50 children between the ages of 11 and 17 years.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Orphanage">
                 <a href="http://www.bahamaslocal.com/newsitem/154530/Summer_Fun_for_Children_of_Nazareth_Centre.html">
                   <img src="{{ site.baseurl }}/img/portfolio/nazarethcenter-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>The Nazareth Home for Children</h2>
                       <p>The Home provides 24 hour care for up to 50 children aged 0-11.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Orphanage">
                 <a href="http://bit.ly/2hIN3ZH">
                   <img src="{{ site.baseurl }}/img/portfolio/oldbight-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Old Bight Mission Home</h2>
                       <p>Located on Cat Island and run by Pastor Russell, his wife, and staff.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Orphanage">
                 <a href="http://ranfurlyhome.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/ranfurly-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Ranfurly Home</h2>
                       <p>Provides comprehensive child care services for displaced children.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <!-- Orphanage End -->
@@ -355,78 +355,78 @@ permalink: /
               <li class="mix Education">
                 <a href="http://alcbahamas.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasadventure-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Adventure Learning Center</h2>
                       <p>Provides students with a science-based curriculum together with Christian principles and spiritual guidelines.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Education">
                 <a href="http://www.thecommonwealthwritersofthebahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/commonwealthwriters-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>The Commonwealth Writers of the Bahamas</h2>
                       <p>To ensure that all members who are interested in becoming published authors or have a career in writing receive the basic skills.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Education">
                 <a href="https://breef.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamashistorical-logo.JPG" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Historical Society</h2>
                       <p>Dedicated to stimulating interest in Bahamian History and to the collection and preservation of material relating to that history.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Education">
                 <a href="http://www.jes-us.org/index.html">
                   <img src="{{ site.baseurl }}/img/portfolio/jes-us-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Jes-us</h2>
                       <p>Providing S.T.E.M. and entrepreneurship education through programs that encourage positive social development, increased educational opportunities and economic security.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Education">
                 <a href="https://www.lyfordcayfoundation.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/lyfordcay-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Lyford Cay Foundation</h2>
                       <p>Increasing the availability of higher education and technical training for Bahamians. Supporting local non-profit groups through financial contributions and volunteer initiatives.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Education">
                 <a href="https://www.facebook.com/Project-Read-Bahamas-243778569015562/">
                   <img src="{{ site.baseurl }}/img/portfolio/read-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Project Read Bahamas</h2>
-                      <p>Helps inspaniduals acquire the listening, speaking, and reading skills they need to solve the problems they encounter in daily life.</p>
-                    </span>
-                  </span>
+                      <p>Helps individuals acquire the listening, speaking, and reading skills they need to solve the problems they encounter in daily life.</p>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Education">
                 <a href="http://www.yestoeducation.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/yestoeducation-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Yes to Education</h2>
                       <p>Committed to improving educational outcomes for all students.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <!-- Education End -->
@@ -434,34 +434,34 @@ permalink: /
               <li class="mix Pet">
                 <a href="http://www.baarkbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/baark-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Baark!</h2>
                       <p>To carry out spay/neuter and education projects to reduce the homeless animal population and end the suffering of dogs and cats in The Bahamas.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Pet">
                 <a href="http://www.bahamashumanesociety.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamashumane-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Humane Society</h2>
                       <p>To reduce the number of unwanted and stray and roaming dogs and cats by means of a well-organised subsidized spay and neuter project.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Pet">
                 <a href="http://www.proudpaws.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/proudpaws-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Proud Paws</h2>
                       <p>To reduce the number of unwanted and stray and roaming dogs and cats by means of a well-organised subsidized spay and neuter project.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <!-- Pet End -->
@@ -469,56 +469,56 @@ permalink: /
               <li class="mix Nature">
                 <a href="http://www.friendsoftheenvironment.org/about-friends/">
                   <img src="{{ site.baseurl }}/img/portfolio/friends-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Friends of the Bahamas</h2>
                       <p>Works to preserve and protect Abaco’s terrestrial and marine environments in order to achieve sustainable living for the wildlife and the people of Abaco.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Nature">
                 <a href="http://bnt.bs/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasnationaltrust-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas National Trust</h2>
                       <p>Manages the country’s national parks.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Nature">
                 <a href="https://breef.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/breef-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Reef Environment Educational Foundation (BREEF)</h2>
                       <p>To educate Bahamians about the value of and need for conserving our marine environment.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Nature">
                 <a href="http://www.levypreserve.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/leonlevy-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Leon Levy Native Plant Preserve</h2>
                       <p>Focused on the preservation of nature and gardens.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix Nature">
                 <a href="http://www.savethebays.bs/">
                   <img src="{{ site.baseurl }}/img/portfolio/savethebays-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Save the Bays</h2>
                       <p>Working with government and local partners to protect priority land and sea habitats.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <!-- Nature End -->
@@ -526,154 +526,154 @@ permalink: /
               <li class="mix General">
                 <a href="https://www.facebook.com/Charitable-Arts-Foundation-of-the-Bahamas-1477849049180058/">
                   <img src="{{ site.baseurl }}/img/portfolio/charitablearts-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Charitable Arts Foundation</h2>
                       <p>Dedicated to supporting endeavors in arts and culture throughout the Bahamas.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="http://www.crimestoppersbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/crimestoppers-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Crimestoppers Bahamas</h2>
                       <p>Dedicated to the ongoing development and implementation of an effective, community-based crime solving program.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/pg/The-Governor-Generals-Youth-Award-GGYA-680136822046019/about/?ref=page_internal">
                   <img src="{{ site.baseurl }}/img/portfolio/ggya-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Governor-General’s Youth Award</h2>
                       <p>Our participants develop important skills, contribute valuable service to the community, participate in physical recreation activities, and embark upon adventurous journeys.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="http://www.myheartmatters.com/index.php">
                   <img src="{{ site.baseurl }}/img/portfolio/myheart-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>My Heart Matters</h2>
-                      <p>Helps inspaniduals and families strengthen their self-value and build healthy relationships.</p>
-                    </span>
-                  </span>
+                      <p>Helps individuals and families strengthen their self-value and build healthy relationships.</p>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="http://thenationalleadinstitute.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/lead-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>LEAD</h2>
                       <p>To provide life management programs and services to inmates and “at-risk” males in the community.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="http://oneeleuthera.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/oneeleuthera-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>One Eleuthera</h2>
                       <p>Connect organizations to the resources they need to create positive and effective changes.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="http://ourcarmichaeljobs.wixsite.com/agency/about-us">
                   <img src="{{ site.baseurl }}/img/portfolio/oneeleuthera-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Our Carmichael</h2>
                       <p>Assists businesses and job seekers in the Carmichael area.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/Pilot-Club-Of-Nassau-592272420878987/">
                   <img src="{{ site.baseurl }}/img/portfolio/pilot-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Pilot Club</h2>
-                      <p>To influence positive change in communities throughout the world by coming together in friendship and giving inspaniduals an outlet for service.</p>
-                    </span>
-                  </span>
+                      <p>To influence positive change in communities throughout the world by coming together in friendship and giving individuals an outlet for service.</p>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/Rotary-Clubs-of-The-Bahamas-689069464452408/?fref=ts">
                   <img src="{{ site.baseurl }}/img/portfolio/rotary-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Rotary Club</h2>
                       <p>Bringing together business and professional leaders in order to provide humanitarian services, encourage high ethical standards in all vocations, and to advance goodwill and peace around the world.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/pg/Sir-Charles-Hayward-Library-575514485845000/about/?ref=page_internal">
                   <img src="{{ site.baseurl }}/img/portfolio/sircharles-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Sir Charles Hayward Library</h2>
                       <p>A public library located on The Mall Drive, Freeport, Grand Bahama.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="http://orgs.tigweb.org/bahamas-urban-youth-development-center">
                   <img src="{{ site.baseurl }}/img/portfolio/buydc-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Bahamas Urban Development Center</h2>
                       <p>To educate and empower all children to maximize their full potential through early intervention training, academic support and youth development programs.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <li class="mix General">
                 <a href="http://www.lion-king-bahamas.com/about/violets-are-blue/">
                   <img src="{{ site.baseurl }}/img/portfolio/violetsareblue-logo.jpg" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>Violets Are Blue</h2>
                       <p>Encourages, develops, and fosters entrepreneurship in Nassaus Inner City communities.</p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
                <li class="mix General">
                 <a href="http://www.ymcabahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/ymca-logo.png" alt="">
-                  <span class="overly">
-                    <span class="position-center">
+                  <div class="overly">
+                    <div class="position-center">
                       <h2>YMCA Grand Bahama</h2>
                       <p>A community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens. </p>
-                    </span>
-                  </span>
+                    </div>
+                  </div>
                 </a>
               </li>
               <!-- General End -->
               <!-- Close Tags Start -->
             </ul>
-          </span>
-        </span>
-      </span>
-    </span>
-  </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- Health Start -->
@@ -686,7 +686,7 @@ permalink: /
 
 [Bahamas Air Sea Rescue Association (BASRA)][3] - The Bahamas Air Sea Rescue Association is a dedicated non-profit voluntary organization committed to saving the lives of distressed seamen or airmen in the Bahamas. 
 
-[The Cancer Society of The Bahamas][4] - The Cancer Society offers education, health care, counseling and support to inspaniduals and families dealing with cancer.
+[The Cancer Society of The Bahamas][4] - The Cancer Society offers education, health care, counseling and support to individuals and families dealing with cancer.
 
 [Bahamas Crisis Center][5] - The Bahamas Crisis Centre exists to offer free counseling and services for men, women and children who are experiencing any form of abuse; family, relationship of behavioral problem.
 
