@@ -52,7 +52,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Nature"> <!-- Health selection affordance -->
-                <a href="/">
+                <a href="https://www.nature.org/en-us/about-us/where-we-work/caribbean/bahamas/">
                   <img src="{{ site.baseurl }}/img/portfolio/natureconservatory-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -85,7 +85,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://www.basra.org/">
+                <a href="https://www.bahamaslocal.com/showlisting/15708/Bahamas_Air_Sea_Rescue_Association_BASRA.html">
                   <img src="{{ site.baseurl }}/img/portfolio/basra-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -96,7 +96,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://www.marathonbahamas.com/">
+                <a href="http://cancersocietybahamas.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/cancersociety-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -107,7 +107,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://bahamascrisiscentre.org/">
+                <a href="https://www.bahamascrisiscentre.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/crisiscenter-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -118,7 +118,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://www.marathonbahamas.com/">
+                <a href="https://www.facebook.com/Bahamas-Diabetes-Association-357976317623313/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasdiabetic-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -129,7 +129,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://www.bahamaslocal.com/showlisting/6722/Bahamas_Family_Planning_Association.html">
+                <a href="https://www.ippf.org/about-us/member-associations/bahamas">
                   <img src="{{ site.baseurl }}/img/portfolio/familyplanning-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -184,7 +184,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://www.marathonbahamas.com/">
+                <a href="http://pcccbahamas.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/pcct-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -239,7 +239,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://www.sistersisterbahamas.com/">
+                <a href="/">
                   <img src="{{ site.baseurl }}/img/portfolio/sister-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -261,7 +261,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
-                <a href="http://strawincbahamas.com/">
+                <a href="/">
                   <img src="{{ site.baseurl }}/img/portfolio/straw-logo.jpeg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -274,7 +274,7 @@ permalink: /
               <!-- Health End -->
               <!-- Orphanage Start -->
               <li class="mix Orphanage">
-                <a href="http://bahamasmethodist.org/bilneylane.html">
+                <a href="http://bahamasmethodist.org/bilneylane.htm">
                   <img src="{{ site.baseurl }}/img/portfolio/bilneylane-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -285,7 +285,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Orphanage">
-                <a href="http://www.bahamasgateway.com/bahamas_bceh.html">
+                <a href="https://www.facebook.com/Bahamas-Childrens-Emergency-Hostel-214776449980/">
                   <img src="{{ site.baseurl }}/img/portfolio/childrenshostel-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -327,18 +327,6 @@ permalink: /
                     </div>
                   </div>
                 </a>
-              </li>
-              <li class="mix Orphanage">
-                <a href="http://bit.ly/2hIN3ZH">
-                  <img src="{{ site.baseurl }}/img/portfolio/oldbight-logo.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Old Bight Mission Home</h2>
-                      <p>Located on Cat Island and run by Pastor Russell, his wife, and staff.</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
               <li class="mix Orphanage">
                 <a href="http://ranfurlyhome.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/ranfurly-logo.jpg" alt="">
@@ -364,7 +352,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Education">
-                <a href="http://www.thecommonwealthwritersofthebahamas.com/">
+                <a href="https://www.commonwealthwriters.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/commonwealthwriters-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -418,19 +406,19 @@ permalink: /
                   </div>
                 </a>
               </li>
-              <li class="mix Education">
-                <a href="http://www.yestoeducation.com/">
-                  <img src="{{ site.baseurl }}/img/portfolio/yestoeducation-logo.jpg" alt="">
+              <!-- Education End -->
+              <!-- Pet Start -->
+              <li class="mix Pet">
+                <a href="https://pawtcakerefuge.org/">
+                  <img src="{{ site.baseurl }}/img/portfolio/pawtcake-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
-                      <h2>Yes to Education</h2>
-                      <p>Committed to improving educational outcomes for all students.</p>
+                      <h2>Pawtcake Refuge</h2>
+                      <p>Dedicated to rescuing abused, neglected, homeless, and abandoned dogs in the Bahamas.</p>
                     </div>
                   </div>
                 </a>
               </li>
-              <!-- Education End -->
-              <!-- Pet Start -->
               <li class="mix Pet">
                 <a href="http://www.baarkbahamas.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/baark-logo.png" alt="">
@@ -454,7 +442,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Pet">
-                <a href="http://www.proudpaws.org/">
+                <a href="https://www.facebook.com/proudpawscalendar/">
                   <img src="{{ site.baseurl }}/img/portfolio/proudpaws-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -467,7 +455,7 @@ permalink: /
               <!-- Pet End -->
               <!-- Nature Start -->
               <li class="mix Nature">
-                <a href="http://www.friendsoftheenvironment.org/about-friends/">
+                <a href="https://www.friendsoftheenvironment.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/friends-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -500,17 +488,6 @@ permalink: /
                 </a>
               </li>
               <li class="mix Nature">
-                <a href="http://www.levypreserve.org/">
-                  <img src="{{ site.baseurl }}/img/portfolio/leonlevy-logo.jpg" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Leon Levy Native Plant Preserve</h2>
-                      <p>Focused on the preservation of nature and gardens.</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix Nature">
                 <a href="http://www.savethebays.bs/">
                   <img src="{{ site.baseurl }}/img/portfolio/savethebays-logo.jpg" alt="">
                   <div class="overly">
@@ -524,7 +501,7 @@ permalink: /
               <!-- Nature End -->
               <!-- General Start -->
               <li class="mix General">
-                <a href="https://www.facebook.com/Charitable-Arts-Foundation-of-the-Bahamas-1477849049180058/">
+                <a href="https://www.thecharitableartsfoundation.com/">
                   <img src="{{ site.baseurl }}/img/portfolio/charitablearts-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -590,17 +567,6 @@ permalink: /
                 </a>
               </li>
               <li class="mix General">
-                <a href="http://ourcarmichaeljobs.wixsite.com/agency/about-us">
-                  <img src="{{ site.baseurl }}/img/portfolio/oneeleuthera-logo.png" alt="">
-                  <div class="overly">
-                    <div class="position-center">
-                      <h2>Our Carmichael</h2>
-                      <p>Assists businesses and job seekers in the Carmichael area.</p>
-                    </div>
-                  </div>
-                </a>
-              </li>
-              <li class="mix General">
                 <a href="https://www.facebook.com/Pilot-Club-Of-Nassau-592272420878987/">
                   <img src="{{ site.baseurl }}/img/portfolio/pilot-logo.jpg" alt="">
                   <div class="overly">
@@ -645,7 +611,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix General">
-                <a href="http://www.lion-king-bahamas.com/about/violets-are-blue/">
+                <a href="https://www.facebook.com/violetsarebluenassau/">
                   <img src="{{ site.baseurl }}/img/portfolio/violetsareblue-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -684,7 +650,7 @@ permalink: /
 
 [Bahamas Association for Social Health (BASH)][3] - BASH manages an adult male residential substance dependency treatment and rehabilitation (T&R) program based on the cognitive behavioral therapy, 12-Step facilitation, and motivational enhancement therapy.
 
-[Bahamas Air Sea Rescue Association (BASRA)][3] - The Bahamas Air Sea Rescue Association is a dedicated non-profit voluntary organization committed to saving the lives of distressed seamen or airmen in the Bahamas. 
+[Bahamas Air Sea Rescue Association (BASRA)][58] - The Bahamas Air Sea Rescue Association is a dedicated non-profit voluntary organization committed to saving the lives of distressed seamen or airmen in the Bahamas. 
 
 [The Cancer Society of The Bahamas][4] - The Cancer Society offers education, health care, counseling and support to individuals and families dealing with cancer.
 
@@ -711,7 +677,6 @@ permalink: /
 [Salvation Army][14] - Offers a variety of social services such as a food program, woman’s shelter, and thrift store.
 
 [Sassoon Heart Foundation][15] - We work in partnership with the Bahamas Heart Association to assist Bahamians with heart ailments, raise awareness of heart disease, and communicate what you can do to live a heart healthy lifestyle.
-
 
 [Sister Sister Breast Cancer Support Group][16] - To empower and educate women to actively participate in preventative health and support those diagnosed.
 
@@ -762,6 +727,8 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [Bahamas Humane Society][32] - The Bahamas Humane Society is a non-profit organization, comprised of a compassionate team, dedicated to promote the humane treatment of animal and prevent cruelty to animals through continuous education in a variety of methods, to end pet over-population through an aggressive spay/neuter campaign from 2013-2018 and as a result of the two objectives to become a no-kill shelter by 2020.
 
+[Pawtcake Refuge][59] - Pawtcake Refuge (The Voiceless Dogs of Nassau, Bahamas) is dedicated to rescuing abused, neglected, homeless, and abandoned dogs in the Bahamas. We are committed to every dog we save, providing them with all necessary medical care, and offering them the very best chance at a new life.
+
 [Proud Paws][33] - Proud Paws is a not-for-profit charity that has as its primary mission the reduction of unwanted and stray and roaming dogs and cats by means of a well-organised subsidized spay and neuter project.
 
 <!-- Nature Start -->
@@ -806,19 +773,14 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [YMCA Grand Bahama][49] - To create a community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens. 
 
-
-
-
 <!-- Links Start -->
-<!-- Health Start -->
 
 [1]: https://www.facebook.com/AIDSFOUNDATION.BAH/
 [2]: https://www.amnesty.org/en/countries/americas/bahamas/
-[50]: http://www.bahamaslocal.com/listing_email/15722/cable_bahamas/
-[3]: http://www.basra.org/
+[3]: /
 [4]: http://cancersocietybahamas.org/
-[5]: http://bahamascrisiscentre.org/
-[6]: http://www.idf.org/membership/nac/the-bahamas/Bahamas-diabetic-association
+[5]: https://www.bahamascrisiscentre.com/
+[6]: https://www.facebook.com/Bahamas-Diabetes-Association-357976317623313/
 [7]: http://www.bahamasgodparentcenter.org/
 [8]: http://www.handsforhunger.org/
 [9]: http://www.marathonbahamas.com/
@@ -828,50 +790,31 @@ Supporting local non-profit groups through financial contributions and volunteer
 [13]: http://www.rideforhopebahamas.com/
 [14]: http://www.salvationarmybahamas.org/
 [15]: http://www.sassoonheartfoundation.org/Home.html
-[16]: http://www.sistersisterbahamas.com/
+[16]: /
 [17]: http://www.specialolympics.org/Regions/north-america/Locations/Special-Olympics-NA-Bahamas.aspx
-[18]: http://strawincbahamas.com/
-[56]: http://www.bahamaslocal.com/showlisting/6722/Bahamas_Family_Planning_Association.html
-
-<!-- Orphanage Start -->
-
-[19]: http://bahamasmethodist.org/bilneylane.html
-[20]: http://www.bahamasgateway.com/bahamas_bceh.html
+[18]: /
+[19]: http://bahamasmethodist.org/bilneylane.htm
+[20]: https://www.facebook.com/Bahamas-Childrens-Emergency-Hostel-214776449980/
 [21]: http://www.bahamaslocal.com/showlisting/15720/Elizabeth_Estates_Childrens_Home.html
 [22]: http://www.gbchildrenshome.com/
 [23]: http://bit.ly/2hIN3ZH
 [24]: http://ranfurlyhome.org/
-[52]: http://www.bahamaslocal.com/newsitem/154530/Summer_Fun_for_Children_of_Nazareth_Centre.html
-[53]: http://bit.ly/2gK59bK
-
-<!-- Education Start -->
-
 [25]: http://alcbahamas.org/
-[26]: http://www.thecommonwealthwritersofthebahamas.com/
+[26]: https://www.commonwealthwriters.org/
 [27]: http://www.bahamashistoricalsociety.com/
 [28]: http://www.jes-us.org/index.html
 [29]: https://www.lyfordcayfoundation.org/
 [30]: http://www.yestoeducation.com/
-[51]: https://www.facebook.com/Project-Read-Bahamas-243778569015562/
-
-<!-- Pet Start -->
-
 [31]: http://www.baarkbahamas.com/
 [32]: http://www.bahamashumanesociety.com/
-[33]: http://www.proudpaws.org/
-
-<!-- Nature Start -->
-
-[34]: http://www.friendsoftheenvironment.org/about-friends/
+[33]: https://www.facebook.com/proudpawscalendar/
+[34]: https://www.friendsoftheenvironment.org/
 [35]: http://bnt.bs/
 [36]: https://breef.org/
 [37]: http://www.levypreserve.org/
-[38]: /
+[38]: https://www.nature.org/en-us/about-us/where-we-work/caribbean/bahamas/
 [39]: http://www.savethebays.bs/
-
-<!-- General Start -->
-
-[40]: https://www.facebook.com/Charitable-Arts-Foundation-of-the-Bahamas-1477849049180058/
+[40]: https://www.thecharitableartsfoundation.com/
 [41]: https://www.facebook.com/pg/The-Governor-Generals-Youth-Award-GGYA-680136822046019/about/?ref=page_internal
 [42]: http://www.myheartmatters.com/index.php
 [43]: http://thenationalleadinstitute.org/
@@ -881,9 +824,13 @@ Supporting local non-profit groups through financial contributions and volunteer
 [47]: https://www.facebook.com/pg/Sir-Charles-Hayward-Library-575514485845000/about/?ref=page_internal
 [48]: http://orgs.tigweb.org/bahamas-urban-youth-development-center
 [49]: http://www.ymcabahamas.com/
+[50]: http://www.bahamaslocal.com/listing_email/15722/cable_bahamas/
+[51]: https://www.facebook.com/Project-Read-Bahamas-243778569015562/
+[52]: http://www.bahamaslocal.com/newsitem/154530/Summer_Fun_for_Children_of_Nazareth_Centre.html
+[53]: http://bit.ly/2gK59bK
 [54]: http://www.crimestoppersbahamas.com/
-[55]: http://www.lion-king-bahamas.com/about/violets-are-blue/
+[55]: https://www.facebook.com/violetsarebluenassau/
+[56]: https://www.ippf.org/about-us/member-associations/bahamas
 [57]: http://ourcarmichaeljobs.wixsite.com/agency/about-us
-
- [picture1]: https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07 (tooltip)
- [hyperlink]: example.org
+[58]: https://www.bahamaslocal.com/showlisting/15708/Bahamas_Air_Sea_Rescue_Association_BASRA.html
+[59]: https://pawtcakerefuge.org/
