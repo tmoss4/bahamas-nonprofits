@@ -771,7 +771,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [Bahamas Urban Development Center][48] - To educate and empower all children to maximize their full potential through early intervention training, academic support and youth development programs that will prepare them for economic self-sufficiency. To learn about sexuality education, and safe sex methods.
 
-[Violets Are Blue][55] - Encourages, develops, and fosters entrepreneurship in Nassaus Inner City communities.
+[Violets Are Blue][55] - Encourages, develops, and fosters entrepreneurship in Nassau's Inner City communities.
 
 [YMCA Grand Bahama][49] - To create a community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens. 
 
