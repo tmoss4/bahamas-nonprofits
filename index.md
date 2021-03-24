@@ -41,7 +41,7 @@ permalink: /
             <ul id="portfolio-contant-active">
               <!-- Health Start -->
               <li class="mix Health">
-                [<a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">]
+                <a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasaids-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -52,7 +52,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix Nature"> <!-- Health selection affordance -->
-                <a href="http://www.nature.org/ourinitiatives/regions/caribbean/bahamas/index.html">
+                <a href="/">
                   <img src="{{ site.baseurl }}/img/portfolio/natureconservatory-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
@@ -866,7 +866,7 @@ Supporting local non-profit groups through financial contributions and volunteer
 [35]: http://bnt.bs/
 [36]: https://breef.org/
 [37]: http://www.levypreserve.org/
-[38]: http://www.nature.org/ourinitiatives/regions/caribbean/bahamas/index.html
+[38]: /
 [39]: http://www.savethebays.bs/
 
 <!-- General Start -->
