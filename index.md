@@ -48,7 +48,6 @@ permalink: /
                       <p>Test Test.</p>
                     </span>
                   </span>
-                </a>
               </li>
               <li class="mix Health">
                 <a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">
