@@ -37,6 +37,9 @@ permalink: /
               <li class="filter" data-filter=".General">General</li>
             </ul>
           </span>
+          <span class="portfolio-contant">
+            <ul id="portfolio-contant-active">
+              <!-- Health Start -->
               <li class="mix Health">
                 <a href="https://www.facebook.com/AIDSFOUNDATION.BAH/">
                   <img src="{{ site.baseurl }}/img/portfolio/bahamasaids-logo.jpg" alt="">
@@ -884,5 +887,3 @@ Supporting local non-profit groups through financial contributions and volunteer
 
  [picture1]: https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07 (tooltip)
  [hyperlink]: example.org
-
- [![alt text][picture1]][hyperlink]
