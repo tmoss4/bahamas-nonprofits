@@ -812,10 +812,10 @@ footer {
   font-family: arial;
 }
 footer p {
+  padding-left: 0px;
   font-size: 13px;
   line-height: 25px;
   color: #000000;
-  padding-left: 0px;
 }
 footer a {
   color: #ff0000;
