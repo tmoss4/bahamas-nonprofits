@@ -815,6 +815,7 @@ footer p {
   font-size: 13px;
   line-height: 25px;
   color: #000000;
+  padding-left: 0px;
 }
 footer a {
   color: #ff0000;
