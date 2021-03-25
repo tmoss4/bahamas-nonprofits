@@ -808,13 +808,13 @@ footer {
   text-align: center;
   padding-top: 25px;
   padding-bottom: 0px;
+  padding-left: 0;
   font-family: arial;
 }
 footer p {
   font-size: 13px;
   line-height: 25px;
   color: #000000;
-  padding-left: 0;
 }
 footer a {
   color: #ff0000;
