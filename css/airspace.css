@@ -808,7 +808,7 @@ footer {
   text-align: center;
   padding-top: 25px;
   padding-bottom: 0px;
-  padding-left: 0;
+  padding-left: 0px;
   font-family: arial;
 }
 footer p {
@@ -821,6 +821,7 @@ footer a {
 }
 footer .footer-manu {
   padding-bottom: 25px;
+  padding-left: 0px;
 }
 footer .footer-manu ul {
   margin: 0px;
