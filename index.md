@@ -633,6 +633,17 @@ permalink: /
                   </div>
                 </a>
               </li>
+              <li class="mix General">
+                <a href="http://www.adranalockhartministries.com/">
+                  <img src="{{ site.baseurl }}/img/portfolio/adrana-logo.jpeg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Adrana Lockhart Ministries</h2>
+                      <p>Educations for children, homes for the homeless, food for the hungry, medicine for the poor.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
               <!-- General End -->
               <!-- Close Tags Start -->
             </ul>
@@ -773,7 +784,9 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [Violets Are Blue][55] - Encourages, develops, and fosters entrepreneurship in Nassau's Inner City communities.
 
-[YMCA Grand Bahama][49] - To create a community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens. 
+[YMCA Grand Bahama][49] - To create a community center for sports and recreation that is a safe haven for children, as well as a significant contributor to their development into intelligent, law abiding, and productive citizens.
+
+[Adrana Lockhart Ministries][60] - Educations for children, homes for the homeless, food for the hungry, medicine for the poor. The world calls for, and expects from us, simplicity of life, the spirit of prayer, charity towards all, especially towards the lowly and the poor.
 
 <!-- Links Start -->
 
@@ -836,3 +849,4 @@ Supporting local non-profit groups through financial contributions and volunteer
 [57]: http://ourcarmichaeljobs.wixsite.com/agency/about-us
 [58]: https://www.bahamaslocal.com/showlisting/15708/Bahamas_Air_Sea_Rescue_Association_BASRA.html
 [59]: https://pawtcakerefuge.org/
+[60]: http://www.adranalockhartministries.com/
