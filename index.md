@@ -645,7 +645,7 @@ permalink: /
                 </a>
               </li>
               <li class="mix General">
-                <a href="http://www.adranalockhartministries.com/">
+                <a href="https://www.facebook.com/tennisbay">
                   <img src="{{ site.baseurl }}/img/portfolio/ata-logo.jpg" alt="">
                   <div class="overly">
                     <div class="position-center">
