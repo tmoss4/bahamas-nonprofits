@@ -644,6 +644,17 @@ permalink: /
                   </div>
                 </a>
               </li>
+              <li class="mix General">
+                <a href="http://www.adranalockhartministries.com/">
+                  <img src="{{ site.baseurl }}/img/portfolio/ata-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Abaco Tennis Association</h2>
+                      <p>Complimentary tennis lessons to children throughout the community.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
               <!-- General End -->
               <!-- Close Tags Start -->
             </ul>
@@ -788,6 +799,8 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [Adrana Lockhart Ministries][60] - Educations for children, homes for the homeless, food for the hungry, medicine for the poor. The world calls for, and expects from us, simplicity of life, the spirit of prayer, charity towards all, especially towards the lowly and the poor.
 
+[Abaco Tennis Association][61] - ATA provides complimentary tennis lessons to children throughout the community of Abaco and also assigns coaches to provide lessons in schools. Members of the Association also participate in other community related footprints such as clean-up and environment initiatives.
+
 <!-- Links Start -->
 
 [1]: https://www.facebook.com/AIDSFOUNDATION.BAH/
@@ -850,3 +863,4 @@ Supporting local non-profit groups through financial contributions and volunteer
 [58]: https://www.bahamaslocal.com/showlisting/15708/Bahamas_Air_Sea_Rescue_Association_BASRA.html
 [59]: https://pawtcakerefuge.org/
 [60]: http://www.adranalockhartministries.com/
+[61]: https://www.facebook.com/tennisbay
