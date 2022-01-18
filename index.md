@@ -646,7 +646,7 @@ permalink: /
               </li>
               <li class="mix General">
                 <a href="https://www.facebook.com/tennisbay">
-                  <img src="{{ site.baseurl }}/img/portfolio/ymca-logo.png" alt="">
+                  <img src="{{ site.baseurl }}/img/portfolio/ata-logo.png" alt="">
                   <div class="overly">
                     <div class="position-center">
                       <h2>Abaco Tennis Association</h2>
