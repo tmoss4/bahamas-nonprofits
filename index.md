@@ -151,6 +151,17 @@ permalink: /
                 </a>
               </li>
               <li class="mix Health">
+                <a href="https://www.bahamaskidneyassociation.org/">
+                  <img src="{{ site.baseurl }}/img/portfolio/bahamas-kidney-logo.jpg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Bahamas Kidney Association</h2>
+                      <p>To increase public awareness of the functions of kidneys and the measures to prevent kidney disease.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li class="mix Health">
                 <a href="http://www.handsforhunger.org/">
                   <img src="{{ site.baseurl }}/img/portfolio/handsforhunger-logo.jpg" alt="">
                   <div class="overly">
@@ -686,6 +697,8 @@ permalink: /
 
 [Bahamas Godparent Pregnancy Youth and Family Center][7] - Non-profit crisis pregnancy and youth center offering support, education, and resources to men and women facing unplanned pregnancies.
 
+[Bahamas Kidney Association][7] - To increase public awareness of the functions of kidneys and the measures to prevent kidney disease. Our vision is to reduce the instances of kidney failure in The Bahamas and improve the lives of persons affected by kidney disease.
+
 [Hands for Hunger][8] - Fresh, surplus food rescue; non-perishable food storage; education; and awareness.
 
 [Marathon Bahamas][9] - We are committed to supporting the efforts in our community with respect to cancer awareness education, and doing what we can to support cancer treatment programs.
@@ -864,3 +877,4 @@ Supporting local non-profit groups through financial contributions and volunteer
 [59]: https://pawtcakerefuge.org/
 [60]: http://www.adranalockhartministries.com/
 [61]: https://www.facebook.com/tennisbay
+[62]: https://www.bahamaskidneyassociation.org/
