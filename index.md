@@ -666,6 +666,17 @@ permalink: /
                   </div>
                 </a>
               </li>
+              <li class="mix General">
+                <a href="https://www.facebook.com/people/Andros-We-Care/100068055403815/">
+                  <img src="{{ site.baseurl }}/img/portfolio/wecareandros.png" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>Andros We Care</h2>
+                      <p>Supporting communities and providing essential support to those in need.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
               <!-- General End -->
               <!-- Close Tags Start -->
             </ul>
@@ -814,6 +825,8 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [Abaco Tennis Association][61] - ATA provides complimentary tennis lessons to children throughout the community of Abaco and also assigns coaches to provide lessons in schools. Members of the Association also participate in other community related footprints such as clean-up and environment initiatives.
 
+[Andros We Care][63] - AWC aims to improve the quality of life in their communities by providing assistance and support to diverse groups of people, including fundraising for medical needs, organizing community events, supporting hurricane evacuees, providing education resources, and empowering young girls in technology.
+
 <!-- Links Start -->
 
 [1]: https://www.facebook.com/AIDSFOUNDATION.BAH/
@@ -878,3 +891,4 @@ Supporting local non-profit groups through financial contributions and volunteer
 [60]: http://www.adranalockhartministries.com/
 [61]: https://www.facebook.com/tennisbay
 [62]: https://www.bahamaskidneyassociation.org/
+[63]: https://www.facebook.com/people/Andros-We-Care/100068055403815/
