@@ -677,6 +677,17 @@ permalink: /
                   </div>
                 </a>
               </li>
+              <li class="mix General">
+                <a href="https://facebook.com/groups/1507871066403010/">
+                  <img src="{{ site.baseurl }}/img/portfolio/kheartforkids.jpeg" alt="">
+                  <div class="overly">
+                    <div class="position-center">
+                      <h2>K’s Heart for Kids</h2>
+                      <p>Holistic child development through resources, opportunities, training, and programs.</p>
+                    </div>
+                  </div>
+                </a>
+              </li>
               <!-- General End -->
               <!-- Close Tags Start -->
             </ul>
@@ -827,6 +838,8 @@ Supporting local non-profit groups through financial contributions and volunteer
 
 [Andros We Care][63] - AWC aims to improve the quality of life in their communities by providing assistance and support to diverse groups of people, including fundraising for medical needs, organizing community events, supporting hurricane evacuees, providing education resources, and empowering young girls in technology.
 
+[K’s Heart for Kids][64] - K’s Heart for Kids is committed to promoting a holistic transformation and development in the lives of children by providing resources, opportunities, training and programs for a successful future and long-term healthy lifestyles.
+
 <!-- Links Start -->
 
 [1]: https://www.facebook.com/AIDSFOUNDATION.BAH/
@@ -892,3 +905,4 @@ Supporting local non-profit groups through financial contributions and volunteer
 [61]: https://www.facebook.com/tennisbay
 [62]: https://www.bahamaskidneyassociation.org/
 [63]: https://www.facebook.com/people/Andros-We-Care/100068055403815/
+[64]: https://facebook.com/groups/1507871066403010/
